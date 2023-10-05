@@ -39,6 +39,6 @@ def get_img_count_to_dir(
     return image_count
 
 
-directory_path = 'E:/secretPictures'
+directory_path = ''
 
 print(get_img_count_to_dir(directory_path))
